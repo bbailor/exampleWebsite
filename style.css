@@ -1,0 +1,21 @@
+p 
+{
+    color: red;
+    background-color: green;
+    font-size: 40px;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+
+}
+
+.chicken-jockey 
+{
+    width: 100px;
+}
+
+.heading
+{
+    font-family: Helvetica;
+}
